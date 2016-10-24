@@ -1,1 +1,1 @@
-# simulaturUsingRuby
+# simulatorUsingRuby
